@@ -1,5 +1,6 @@
 import time
 from math import log
+#my name is jj
 
 # AHT10 Library for MicroPython on ESP32
 # Author: Sean Yong
